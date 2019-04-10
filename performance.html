@@ -1,0 +1,53 @@
+---
+title: Performance
+layout: biobeto
+---
+
+<style>
+
+</style>
+	<div class="fotos_perfos">
+		<div class="w3-content w3-section" style="max-width:900px; max-height: auto;">
+	<p>ARGOLLA / de Federico Cantini. Pasto Galería. 2017</p>
+			<img class="mySlides w3-animate-right" src=https://payload.cargocollective.com/1/14/478802/12996834/17634538_1212719395493611_4006729467770492197_n_960.jpg style="width:100%">
+			<img class="mySlides w3-animate-right"src=https://payload.cargocollective.com/1/14/478802/12996834/18199258_1239380449494172_4421055054679435099_n_939.jpg style="width:100%">
+			<img class="mySlides w3-animate-right" src=https://payload.cargocollective.com/1/14/478802/12996834/17634432_1213682402063977_9127682295214771236_n_960.jpg style="width:100%">
+		</div>
+		<div class="w3-content w3-section" style="max-width:900px; max-height: auto;">
+	<p>ENSAYO DE EROS / Silvio Lang. Museo de Arte Moderno de Buenos Aires. 2016</p>
+			<img  class="mySlides w3-animate-right"src="https://payload.cargocollective.com/1/14/478802/12996834/12020040_471055326408944_4874772305305278856_n_960.jpg" style="width:100%">
+			<img class="mySlides w3-animate-right" src="https://payload.cargocollective.com/1/14/478802/12996834/12009694_427896590732754_1650002699503365090_n_637.jpg" style="width:100%">
+			<img class="mySlides w3-animate-right" src=https://payload.cargocollective.com/1/14/478802/12996834/12009767_427896950732718_773584918088270225_n_960.jpg style="width:100%">
+		</div>
+		<div class="w3-content w3-section" style="max-width:900px; max-height: 600px;">
+	<p>MARINACORAZÓN / en colaboración con la artista Carolina Ruiz. Club de fans de Marina Abramovic en su visita a la Argentina a la Bienal de Performance BA 015.</p><br>
+			<img class="mySlides w3-animate-right" src=https://payload.cargocollective.com/1/14/478802/12996834/marinacorazondos_640_640.jpg style="width:100%">
+			<img class="mySlides w3-animate-right" src=https://payload.cargocollective.com/1/14/478802/12996834/marinacorazonuno_640_640.jpg style="width:100%"><br>
+		</div>
+		<div class="w3-content w3-section" style="max-width:900px; max-height: 600px;">
+	<p>DECLARACIÓN UNIVERSAL/ en colaboración con Julieta Massacese. Lectura de los derechos universales con capuchas y bondage. 2015</p><br>
+			<img class="mySlides w3-animate-right" src=https://payload.cargocollective.com/1/14/478802/12996834/declaracin-II_o_800.jpg style="width:100%">
+			<img class="mySlides w3-animate-right" src=https://payload.cargocollective.com/1/14/478802/12996834/IMG_6645_o_670.JPG style="width:100%">
+			<img class="mySlides w3-animate-right" src=https://payload.cargocollective.com/1/14/478802/12996834/webcam-toy-photo17_o_800.jpg style="width:100%">
+		</div>
+		<div class="w3-content w3-section" style="max-width:900px; max-height: 600px;">
+	<p>MAREACIONES / Florencia Rodriguez Giles. Ruth Benzacar Galería. 2015</p><br>
+	<p>UNDER DE SÍ / Diego Bianchi, Luis Garay. Bienal de Performance de Buenos Aires 2015.</p>
+		</div>
+	</div>
+<script>
+var myIndex = 0;
+carousel();
+
+function carousel() {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
+  }
+  myIndex++;
+  if (myIndex > x.length) {myIndex = 1}    
+  x[myIndex-1].style.display = "block";  
+  setTimeout(carousel, 2500);    
+}
+</script>

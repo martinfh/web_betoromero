@@ -1,4 +1,12 @@
-<header class="site-header" role="banner">
+<header class="site-header" role="banner" style="background-color: white;">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+    <div class="box_contacto"><i>CONTACTO</i> 😏
+  <h4 class="box_contacto"><a href="mailto:albertoantonioromero@gmail.com">albertoantonioromero@gmail.com</a><br>
+  <a href="https://www.instagram.com/albertoantonioromero/"><i class="fab fa-instagram"></i></a><br>
+    <a href="https://www.facebook.com/albertoantonio.romero.7"><i class="fab fa-facebook"></i></a><br>
+  </h4>
+</div>
 
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
@@ -20,7 +28,7 @@
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
             {%- if my_page.title -%}
-            <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+            <a class="page-link" id="paginas" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             {%- endif -%}
           {%- endfor -%}
         </div>

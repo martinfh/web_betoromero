@@ -1,3 +1,32 @@
+/* inconsolata-regular - latin */
+@font-face {
+  font-family: 'Inconsolata';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/inconsolata-v17-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local('Inconsolata Regular'), local('Inconsolata-Regular'),
+       url('../fonts/inconsolata-v17-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/inconsolata-v17-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/inconsolata-v17-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/inconsolata-v17-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/inconsolata-v17-latin-regular.svg#Inconsolata') format('svg'); /* Legacy iOS */
+}
+/* inconsolata-700 - latin */
+@font-face {
+  font-family: 'Inconsolata';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../fonts/inconsolata-v17-latin-700.eot'); /* IE9 Compat Modes */
+  src: local('Inconsolata Bold'), local('Inconsolata-Bold'),
+       url('../fonts/inconsolata-v17-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/inconsolata-v17-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/inconsolata-v17-latin-700.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/inconsolata-v17-latin-700.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/inconsolata-v17-latin-700.svg#Inconsolata') format('svg'); /* Legacy iOS */
+}
+
+
+
 /**
  * Reset some basic elements
  */
@@ -177,8 +206,8 @@ pre {
 .wrapper {
   max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
   max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
-  margin-right: auto;
-  margin-left: 30px;
+  margin-right: 0;
+  margin-left: 0;
   padding-right: $spacing-unit;
   padding-left: $spacing-unit;
   @extend %clearfix;
