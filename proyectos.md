@@ -6,7 +6,7 @@ layout: biobeto
 <ul>
   {% for proyectos in site.categories.proyectos %}
     
-+ <a href="{{ proyectos.url }}">{{ proyectos.title }}</a><br>
++ <a href="web_betoromero/{{ proyectos.url }}">{{ proyectos.title }}</a><br>
   
   {% endfor %}
  
