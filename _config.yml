@@ -16,7 +16,7 @@
 title: Alberto Antonio Romero
 email: your-email@example.com
 description: Alberto Antonio Romero
-baseurl: "/web_betoromero/"
+baseurl: "/"
 url: "http://martinfh.github.io"
 twitter_username: jekyllrb
 github_username:  jekyll
