@@ -2,6 +2,7 @@
 title: La espada en la piedra
 layout: proyecto
 category: proyectos
+published: true
 ---
 
 Obra en colaboración con[Susi Villa](https://www.instagram.com/susi.villa.96/)<br>
