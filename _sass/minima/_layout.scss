@@ -43,20 +43,20 @@ h4 {
   text-align: right;
   display: none;
   background-color: yellow;
-  padding: 20px;
+  
   border-radius: 20px;
 }
-h4:hover{
+h4{
   color: black;
   text-align: right;
   text-decoration: none;
   display: none;
   background-color: yellow;
-  padding: 20px;
+  
   border-radius: 20px;
 }
 
-div:hover h4 {
+div h4 {
   color: black;
   display: block;
   align-self: right;
@@ -73,8 +73,9 @@ div:hover h4 {
   width: 300px;
   float: right;
   margin-right: 0;
-  padding-top: 30px;
-  padding-right: 30px;
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
  }
 
 a {
