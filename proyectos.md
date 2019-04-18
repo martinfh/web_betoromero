@@ -1,5 +1,5 @@
 ---
-title: Proyectos
+title: Obra
 layout: biobeto
 ---
 

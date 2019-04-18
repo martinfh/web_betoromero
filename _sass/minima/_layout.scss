@@ -1,6 +1,7 @@
 /**
  * Site header
  */
+
  /* inconsolata-regular - latin */
 @font-face {
   font-family: 'Inconsolata';
@@ -86,14 +87,13 @@ a {
 
 .page-link:link {
   text-decoration: none;
+  transition: all 0.2s ease;
 }
 .page-link:visited {
   background-color: orange;
 }
 .page-link:hover {
-  text-decoration: wavy;
-  background-color: lightgreen;
-  text-decoration-style:wavy;
+  border: 2px solid black;
 }
 .page-link:active {
   background-color: orange;
@@ -109,15 +109,14 @@ width: 1000px;
 
  }
 .site-header {
-  border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
-
   // Positioning context for the mobile navigation icon
   position: relative;
 }
 
 .site-title {
-  @include relative-font-size(1.625);
+  font-family: 'MedievalSharp', cursive;
+  @include relative-font-size(2.0);
   font-weight: 300;
   line-height: $base-line-height * $base-font-size * 2.25;
   letter-spacing: -1px;
@@ -129,12 +128,12 @@ width: 1000px;
   &,
 &:hover {
     text-decoration:none;
-    color: $grey-color-dark;
+    color: black;
   }
 
   &:visited {
     text-decoration:none;
-    color: $grey-color-dark;
+    color: black;
   }
 }
 
@@ -206,7 +205,6 @@ width: 1000px;
       font-family: 'Inconsolata', monospace;
       display: block;
       padding: 5px 10px;
-
       &:not(:last-child) {
         margin-right: 0;
       }
@@ -331,6 +329,7 @@ width: 1000px;
 }
 
 .post-title {
+  font-family: 'MedievalSharp', cursive;
   @include relative-font-size(1.625);
   letter-spacing: -1px;
   line-height: 1;
