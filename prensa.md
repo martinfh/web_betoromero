@@ -3,6 +3,20 @@ title: Prensa
 layout: biobeto
 ---
 
+NOTAS<br>
+[Cuatro performances imperdibles](https://www.lanacion.com.ar/cultura/cuatro-performances-imperdibles-arteba-2019-nid2237369)<br>
+[Premio en obra La Nación](https://www.lanacion.com.ar/cultura/record-arteba-artistas-jovenes-premio-en-obra-nid2237701)<br>
+[Premio en Obra Diario Vivo](https://www.diariovivo.com/entregaron-el-premio-en-obra-a-los-artistas-jovenes-de-la-feria-arteba/)<br>
+[Tapa La Nación](https://www.lanacion.com.ar/cultura/nace-utopia-arteba-nid2234897)<br>
+[Clarin](https://www.pressreader.com/argentina/clarin/20190415/282136407800830)<br>
+[Cultura & Espectáculos - Página 12 / Del otro lado](https://www.pagina12.com.ar/diario/suplementos/espectaculos/index-2014-08-05.html) <br>
+[Puerta E - colectivo de noticias / Nota Esquel, Chubut.](http://puertae.com.ar/2014/08/un-joven-esquelense-realizo-una-obra-sobre-el-suicidio-adolescente/) <br>
+[Radio Kalewche / Entrevista Radial. Esquel, Chubut.](http://www.kalewchefm.org/noticias/la-tijereta/2464-el-suicidio-adolescente-llevado-al-teatro-por-un-joven-esquelense?utm_source=dlvr.it&utm_medium=facebook
+[Cultura - Diario La Nación / El Porvenir])<br>
+[https://www.lanacion.com.ar/1721217-un-festival-de-teatro-que-reune-a-directores-sub-30](https://www.lanacion.com.ar/1721217-un-festival-de-teatro-que-reune-a-directores-sub-30)<br>
+[Revista BRANDO sobre Descenso](https://www.lanacion.com.ar/lifestyle/recomendado-de-teatro-descenso-nid1955962)<br>
+[Revista la Nacion (versión impresa y versión digital)](https://www.lanacion.com.ar/cultura/nace-utopia-arteba-nid2234897)<br>
+
 ALWE<br>
 [La noche después de los bosques](https://www.pagina12.com.ar/100475-la-noche-despues-de-los-bosques) / RADAR
 
@@ -31,12 +45,3 @@ CANADÁ<br>
 [Revista Llegás](https://www.facebook.com/168627203198958/photos/a.310360339025643.73383.168627203198958/553302858064722/?type=1&theater)<br> 
 [Diario El Popular Espectáculos](http://www.diariopopular.com.ar/c173132)<br>
 [Revista La Garganta Poderosa - Villas Artes (versión impresa) Nov. 013]
-
-NOTAS<br>
-[Cultura & Espectáculos - Página 12 / Del otro lado](https://www.pagina12.com.ar/diario/suplementos/espectaculos/index-2014-08-05.html) <br>
-[Puerta E - colectivo de noticias / Nota Esquel, Chubut.](http://puertae.com.ar/2014/08/un-joven-esquelense-realizo-una-obra-sobre-el-suicidio-adolescente/) <br>
-[Radio Kalewche / Entrevista Radial. Esquel, Chubut.](http://www.kalewchefm.org/noticias/la-tijereta/2464-el-suicidio-adolescente-llevado-al-teatro-por-un-joven-esquelense?utm_source=dlvr.it&utm_medium=facebook
-[Cultura - Diario La Nación / El Porvenir])<br>
-[https://www.lanacion.com.ar/1721217-un-festival-de-teatro-que-reune-a-directores-sub-30](https://www.lanacion.com.ar/1721217-un-festival-de-teatro-que-reune-a-directores-sub-30)<br>
-[Revista BRANDO sobre Descenso](https://www.lanacion.com.ar/lifestyle/recomendado-de-teatro-descenso-nid1955962)<br>
-[Revista la Nacion (versión impresa y versión digital)](https://www.lanacion.com.ar/cultura/nace-utopia-arteba-nid2234897)
