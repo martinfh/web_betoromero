@@ -7,7 +7,6 @@ category: proyectos
 Obra en colaboración con[Susi Villa](https://www.instagram.com/susi.villa.96/)<br>
 <iframe width="1280" height="720"  src="https://www.youtube.com/embed/Hol6X6mq4Pk?rel=0&amp;controls=0&amp;showinfo=0;autoplay=1&mute=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
 Ciclo de acciones <i> El asunto de lo remoto</i><br>
 curador[Gonzalo Lagos](https://cargocollective.com/gonzalolagos)<br>
 [Munar arte](https://artemunar.com.ar)
