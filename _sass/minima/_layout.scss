@@ -29,6 +29,8 @@
        url('../fonts/inconsolata-v17-latin-700.svg#Inconsolata') format('svg'); /* Legacy iOS */
 }
 
+
+
 body {
   opacity: 1;
   transition: 0.7s opacity;
@@ -340,7 +342,8 @@ width: 1000px;
 }
 
 .post-content {
-  margin-left: 50px;
+  width: 900px;
+  margin-left: 200px;
   margin-bottom: $spacing-unit;
 
   h2 {
