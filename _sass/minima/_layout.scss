@@ -28,9 +28,11 @@
        url('../fonts/inconsolata-v17-latin-700.ttf') format('truetype'), /* Safari, Android, iOS */
        url('../fonts/inconsolata-v17-latin-700.svg#Inconsolata') format('svg'); /* Legacy iOS */
 }
-
-
-
+.video_prensa {
+  width: 600px;
+  margin-top: -100px;
+  margin-bottom: -70px;
+}
 body {
   opacity: 1;
   transition: 0.7s opacity;
@@ -178,7 +180,7 @@ width: 1000px;
       z-index: 2;
       cursor: pointer;
     }
-
+    
     .menu-icon {
       display: block;
       float: right;

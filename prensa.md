@@ -2,7 +2,9 @@
 title: Prensa
 layout: biobeto
 ---
-
+  <video autoplay loop muted class="video_prensa" poster="video.jpg">
+    <source src="assets/videocover.mp4" type="video/mp4">
+  </video>
 NOTAS<br>
 [Cuatro performances imperdibles](https://www.lanacion.com.ar/cultura/cuatro-performances-imperdibles-arteba-2019-nid2237369)<br>
 [Premio en obra La Nación](https://www.lanacion.com.ar/cultura/record-arteba-artistas-jovenes-premio-en-obra-nid2237701)<br>
