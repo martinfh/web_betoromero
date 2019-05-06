@@ -2,9 +2,11 @@
 title: Prensa
 layout: biobeto
 ---
+<div style="margin-top: 200px;">
   <video autoplay loop muted class="video_prensa" poster="video.jpg">
     <source src="assets/videocover.mp4" type="video/mp4">
   </video>
+</div>
 NOTAS<br>
 [Cuatro performances imperdibles](https://www.lanacion.com.ar/cultura/cuatro-performances-imperdibles-arteba-2019-nid2237369)<br>
 [Premio en obra La Nación](https://www.lanacion.com.ar/cultura/record-arteba-artistas-jovenes-premio-en-obra-nid2237701)<br>
@@ -15,7 +17,7 @@ NOTAS<br>
 [Puerta E - colectivo de noticias / Nota Esquel, Chubut.](http://puertae.com.ar/2014/08/un-joven-esquelense-realizo-una-obra-sobre-el-suicidio-adolescente/) <br>
 [Radio Kalewche / Entrevista Radial. Esquel, Chubut.](http://www.kalewchefm.org/noticias/la-tijereta/2464-el-suicidio-adolescente-llevado-al-teatro-por-un-joven-esquelense?utm_source=dlvr.it&utm_medium=facebook
 [Cultura - Diario La Nación / El Porvenir])<br>
-[https://www.lanacion.com.ar/1721217-un-festival-de-teatro-que-reune-a-directores-sub-30](https://www.lanacion.com.ar/1721217-un-festival-de-teatro-que-reune-a-directores-sub-30)<br>
+[Festival del porvenir / La Nacion](https://www.lanacion.com.ar/1721217-un-festival-de-teatro-que-reune-a-directores-sub-30)<br>
 [Revista BRANDO sobre Descenso](https://www.lanacion.com.ar/lifestyle/recomendado-de-teatro-descenso-nid1955962)<br>
 [Revista la Nacion (versión impresa y versión digital)](https://www.lanacion.com.ar/cultura/nace-utopia-arteba-nid2234897)<br>
 

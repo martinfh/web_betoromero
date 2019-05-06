@@ -1,5 +1,5 @@
 ---
-title: Clases / Seminarios / Workshops
+title: Clases / Workshops
 layout: biobeto
 ---
 

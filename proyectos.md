@@ -1,5 +1,5 @@
 ---
-title: Obra
+title: Performance
 layout: biobeto
 ---
 
@@ -11,3 +11,5 @@ layout: biobeto
   {% endfor %}
  
 </ul>
+
+<a href="performance.html"> Colaboraciones</a>

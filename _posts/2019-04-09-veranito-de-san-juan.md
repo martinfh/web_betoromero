@@ -21,17 +21,75 @@ Tomás Déias Spreng
 Asistencia y canciones: Ana Capalbo
 PH: Luz Soria
 
-![](https://payload.cargocollective.com/1/14/478802/9512412/_MG_8717-copia_1024.jpg)
-![](https://payload.cargocollective.com/1/14/478802/9512412/_MG_8741-copia_1024.jpg)
-![](https://payload.cargocollective.com/1/14/478802/9512412/_MG_8747-copia_1024.jpg)
-![](https://payload.cargocollective.com/1/14/478802/9512412/_MG_8755-copia_1024.jpg)
-![](https://payload.cargocollective.com/1/14/478802/9512412/_MG_8723-copia_1024.jpg)
-![](https://payload.cargocollective.com/1/14/478802/9512412/_MG_8726-copia_1024.jpg)
-![](https://payload.cargocollective.com/1/14/478802/9512412/_MG_8733-copia_1024.jpg)
-![](https://payload.cargocollective.com/1/14/478802/9512412/_MG_8361_1024.jpg)
-![](https://payload.cargocollective.com/1/14/478802/9512412/_MG_8302_1024.jpg)
-![](https://payload.cargocollective.com/1/14/478802/9512412/compri-cuatro_1024.jpg)
-![](https://payload.cargocollective.com/1/14/478802/9512412/_MG_7298a_1024.jpg)
-![](https://payload.cargocollective.com/1/14/478802/9512412/_MG_8294_1024.jpg)
-![](https://payload.cargocollective.com/1/14/478802/9512412/_MG_8296_683.jpg)
-![](https://payload.cargocollective.com/1/14/478802/9512412/_MG_8312_1024.jpg)
+<div class="slideshow-container" style="z-index: 2;">
+     <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/9512412/_MG_8717-copia_1024.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/9512412/_MG_8741-copia_1024.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/9512412/_MG_8747-copia_1024.jpg" style="width:100%">
+  </div>
+   <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/9512412/_MG_8755-copia_1024.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/9512412/_MG_8723-copia_1024.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/9512412/_MG_8726-copia_1024.jpg
+" style="width:100%">
+  </div>
+   <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/9512412/_MG_8733-copia_1024.jpg
+" style="width:100%">
+  </div>
+  <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/9512412/_MG_8361_1024.jpg" style="width:100%">
+  </div>
+   <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/9512412/_MG_8302_1024.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/9512412/compri-cuatro_1024.jpg" style="width:100%">
+  </div>
+     <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/9512412/_MG_7298a_1024.jpg
+" style="width:100%">
+  </div>
+  <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/9512412/_MG_8294_1024.jpg" style="width:100%">
+  </div>
+   <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/9512412/_MG_8296_683.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/9512412/_MG_8312_1024.jpg" style="width:100%">
+  </div>
+  <a class="prev">&#10094;</a>
+  <a class="next">&#10095;</a>
+  <div style="text-align:center">
+    <span class="dot"></span>
+    <span class="dot" ></span>
+    <span class="dot" ></span>
+    <span class="dot"></span>
+    <span class="dot" ></span>
+    <span class="dot" ></span>
+    <span class="dot"></span>
+    <span class="dot" ></span>
+    <span class="dot" ></span>
+    <span class="dot"></span>
+    <span class="dot" ></span>
+    <span class="dot" ></span>
+    <span class="dot" ></span>
+    <span class="dot"></span>
+    <span class="dot" ></span>
+  </div>
+</div>

@@ -26,27 +26,103 @@ Fotografía: Luz Soria
 Supervisión en dramaturgia: Lucas Olmedo.
 Asistente de Dirección: Yaiza Conti Ferreyra.
 
-![](https://payload.cargocollective.com/1/14/478802/7210328/entrada_o.jpg)
-![](https://payload.cargocollective.com/1/14/478802/7210328/convite%20RGB-01_o.jpg)
-![](https://payload.cargocollective.com/1/14/478802/7210328/Amanda_o.jpg)
-![](https://payload.cargocollective.com/1/14/478802/7210328/Antonia---copia_o.jpg)
-![](https://payload.cargocollective.com/1/14/478802/7210328/Blanca---copia_o.jpg)
-![](https://payload.cargocollective.com/1/14/478802/7210328/Cecilia_o.jpg)
-![](https://payload.cargocollective.com/1/14/478802/7210328/Esther_o.jpg)
-![](https://payload.cargocollective.com/1/14/478802/7210328/Perla_o.jpg)
-![](https://payload.cargocollective.com/1/14/478802/7210328/web%20size%20-%20el%20convite%20114_o.JPG)
-![](https://payload.cargocollective.com/1/14/478802/7210328/web%20size%20-%20el%20convite%2091_o.JPG)
-![](https://payload.cargocollective.com/1/14/478802/7210328/web%20size%20-%20el%20convite%20117_o.JPG)
-![](https://payload.cargocollective.com/1/14/478802/7210328/web%20size%20-%20el%20convite%20135_o.JPG)
-![](https://payload.cargocollective.com/1/14/478802/7210328/web%20size%20-%20el%20convite%20128_o.JPG)
-![](https://payload.cargocollective.com/1/14/478802/7210328/ed_MG_9014_o.jpg)
-![](https://payload.cargocollective.com/1/14/478802/7210328/_MG_2270-web_o.jpg)
-![](https://payload.cargocollective.com/1/14/478802/7210328/_MG_2279-web_o.jpg)
-![](https://payload.cargocollective.com/1/14/478802/7210328/_MG_2285-web_o.jpg)
-![](https://payload.cargocollective.com/1/14/478802/7210328/_MG_8616-web_o.jpg)
-![](https://payload.cargocollective.com/1/14/478802/7210328/_MG_8618-web_o.jpg)
-![](https://payload.cargocollective.com/1/14/478802/7210328/_MG_8648-web_o.jpg)
-![](https://payload.cargocollective.com/1/14/478802/7210328/ed_MG_9003_o.jpg)
-![](https://payload.cargocollective.com/1/14/478802/7210328/ed_MG_9015_o.jpg)
-![](https://payload.cargocollective.com/1/14/478802/7210328/ed_MG_9024_o.jpg)
-![](https://payload.cargocollective.com/1/14/478802/7210328/convite-mini_o.jpg)
+
+<div class="slideshow-container" style="z-index: 2;">
+     <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/7210328/entrada_o.jpg" style="width:100%">
+  </div>
+  <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/7210328/convite%20RGB-01_o.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/7210328/Amanda_o.jpg" style="width:100%">
+  </div>
+   <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/7210328/Antonia---copia_o.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/7210328/Blanca---copia_o.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/7210328/Cecilia_o.jpg
+" style="width:100%">
+  </div>
+   <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/7210328/Esther_o.jpg
+" style="width:100%">
+  </div>
+  <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/7210328/Perla_o.jpg" style="width:100%">
+  </div>
+   <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/7210328/web%20size%20-%20el%20convite%20114_o.JPG" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/7210328/web%20size%20-%20el%20convite%2091_o.JPG" style="width:100%">
+  </div>
+    <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/7210328/web%20size%20-%20el%20convite%20117_o.JPG" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/7210328/web%20size%20-%20el%20convite%20135_o.JPG" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/7210328/web%20size%20-%20el%20convite%20128_o.JPG" style="width:100%">
+  </div>
+   <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/7210328/ed_MG_9014_o.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/7210328/_MG_2270-web_o.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/7210328/_MG_2279-web_o.jpg
+" style="width:100%">
+  </div>
+   <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/7210328/_MG_2285-web_o.jpg
+" style="width:100%">
+  </div>
+  <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/7210328/_MG_8616-web_o.jpg" style="width:100%">
+  </div>
+   <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/7210328/ed_MG_9003_o.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/7210328/ed_MG_9015_o.jpg" style="width:100%">
+  </div>
+  <a class="prev">&#10094;</a>
+  <a class="next">&#10095;</a>
+  <div style="text-align:center">
+    <span class="dot"></span>
+    <span class="dot" ></span>
+    <span class="dot" ></span>
+    <span class="dot"></span>
+    <span class="dot" ></span>
+    <span class="dot" ></span>
+    <span class="dot"></span>
+    <span class="dot" ></span>
+    <span class="dot" ></span>
+    <span class="dot"></span>
+    <span class="dot" ></span>
+     <span class="dot" ></span>
+    <span class="dot" ></span>
+    <span class="dot"></span>
+    <span class="dot" ></span>
+    <span class="dot" ></span>
+    <span class="dot"></span>
+    <span class="dot" ></span>
+    <span class="dot" ></span>
+    <span class="dot"></span>
+  </div>
+</div>

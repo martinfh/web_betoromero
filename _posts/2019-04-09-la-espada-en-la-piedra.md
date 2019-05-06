@@ -1,5 +1,5 @@
 ---
-title: La espada en la piedra
+title: La espada y la piedra
 layout: proyecto
 category: proyectos
 ---
@@ -24,8 +24,26 @@ Realización Francisco Romero, Andrea Romero, Norma Villa, Susana Villa.
 
 Registro [Joaquín Wall](http://www.joaquinwall.com)
 
-![](https://payload.cargocollective.com/1/14/478802/13584578/MUNAR_01_15_1920.jpg)![](https://payload.cargocollective.com/1/14/478802/13584578/MUNAR_01_17_1920.jpg)
-![](https://payload.cargocollective.com/1/14/478802/13584578/MUNAR_01_03_1920.jpg)
+<div class="slideshow-container" style="z-index: 2;">
+     <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/13584578/MUNAR_01_15_1920.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/13584578/MUNAR_01_17_1920.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/13584578/MUNAR_01_03_1920.jpg" style="width:100%">
+  </div>
+  <a class="prev">&#10094;</a>
+  <a class="next">&#10095;</a>
+  <div style="text-align:center">
+    <span class="dot"></span>
+    <span class="dot" ></span>
+    <span class="dot" ></span>
+  </div>
+</div>
 
 LA ESPADA Y LA PIEDRA 
 En un tiempo irreconocible 
@@ -77,9 +95,27 @@ Fueron mulas, inventaron las mulas
 pulieron materiales 
 aprendieron a tratar 
 la superficie de las cosas.
-![](https://payload.cargocollective.com/1/14/478802/13584578/GIMD0791_780.JPG)![](https://payload.cargocollective.com/1/14/478802/13584578/UABI6055-1_780.JPG)
-![](https://payload.cargocollective.com/1/14/478802/13584578/WhatsApp-Image-2018-07-11-at-11.42.31_1280.jpeg)
-![](https://payload.cargocollective.com/1/14/478802/13584578/WhatsApp-Image-2018-07-11-at-11.42.32-1_1280.jpeg)
+
+<div class="slideshow-container" style="z-index: 2;">
+     <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/13584578/GIMD0791_780.JPG" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/13584578/UABI6055-1_780.JPG" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/13584578/WhatsApp-Image-2018-07-11-at-11.42.32-1_1280.jpeg" style="width:100%">
+  </div>
+  <a class="prev">&#10094;</a>
+  <a class="next">&#10095;</a>
+  <div style="text-align:center">
+    <span class="dot"></span>
+    <span class="dot" ></span>
+    <span class="dot" ></span>
+  </div>
+</div>
 
 Piezas
 

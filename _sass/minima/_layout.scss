@@ -72,6 +72,28 @@ div h4 {
 
 }
 
+ .box {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-start;
+  align-content: flex-start;
+  width: 1400px;
+
+ 
+}
+ .book-box {
+    width: 500px;
+    height: 700px;
+    margin: auto;
+    padding-top: 100px;
+ }
+
+.book-box img {
+  width: 408px;
+  height: 620px;
+}
  .box_contacto{
   text-align: right;
   margin-top: 0;
@@ -159,7 +181,7 @@ width: 1000px;
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
-      margin-right: 20px;
+      margin-right: 15px;
     }
   }
 

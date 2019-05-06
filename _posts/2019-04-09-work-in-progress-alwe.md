@@ -23,17 +23,66 @@ Fotografía: Luz Soria
 Dibujo: Martín Fernández
 Asistencia de dirección: Noelia Lorena Ferrario
 Dramaturgia y dirección: Alberto Antonio Romero.
+<div class="slideshow-container" style="z-index: 2;">
+     <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/8277830/ed_MG_4529_o.jpg" style="width:100%">
+  </div>
 
-![](https://payload.cargocollective.com/1/14/478802/8277830/ed_MG_4529_o.jpg)
-![](https://payload.cargocollective.com/1/14/478802/8277830/ed_MG_4555_o.jpg)
-![](https://payload.cargocollective.com/1/14/478802/8277830/ed_MG_4563_o.jpg)
-![](https://payload.cargocollective.com/1/14/478802/8277830/ed_MG_0122b_o.jpg)
-![](https://payload.cargocollective.com/1/14/478802/8277830/ed_MG_0132_o.jpg)
-![](https://payload.cargocollective.com/1/14/478802/8277830/ed_MG_0152_o.jpg)
-![](https://payload.cargocollective.com/1/14/478802/8277830/ed_MG_0174_o.jpg)
-![](https://payload.cargocollective.com/1/14/478802/8277830/ed_MG_4616_o.jpg)
-![](https://payload.cargocollective.com/1/14/478802/8277830/_MG_4573_1024.JPG)
-![](https://payload.cargocollective.com/1/14/478802/8277830/_MG_4632_1024.JPG)
-![](https://payload.cargocollective.com/1/14/478802/8277830/_MG_4639_1024.JPG)
-![](https://payload.cargocollective.com/1/14/478802/8277830/_MG_4627_1024.JPG)
-![](https://payload.cargocollective.com/1/14/478802/8277830/_MG_4553_683.JPG)
+  <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/8277830/ed_MG_4555_o.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/8277830/ed_MG_4563_o.jpg" style="width:100%">
+  </div>
+   <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/8277830/ed_MG_0132_o.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/8277830/ed_MG_0152_o.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/8277830/ed_MG_0174_o.jpg
+" style="width:100%">
+  </div>
+   <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/8277830/ed_MG_4616_o.jpg
+" style="width:100%">
+  </div>
+  <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/8277830/_MG_4573_1024.JPG" style="width:100%">
+  </div>
+   <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/8277830/_MG_4632_1024.JPG" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/8277830/_MG_4639_1024.JPG" style="width:100%">
+  </div>
+    <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/8277830/_MG_4627_1024.JPG" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <img src="https://payload.cargocollective.com/1/14/478802/8277830/_MG_4553_683.JPG" style="width:100%">
+  </div>
+  <a class="prev">&#10094;</a>
+  <a class="next">&#10095;</a>
+  <div style="text-align:center">
+    <span class="dot"></span>
+    <span class="dot" ></span>
+    <span class="dot" ></span>
+    <span class="dot"></span>
+    <span class="dot" ></span>
+    <span class="dot" ></span>
+    <span class="dot"></span>
+    <span class="dot" ></span>
+    <span class="dot" ></span>
+    <span class="dot"></span>
+    <span class="dot" ></span>
+     <span class="dot"></span>
+    <span class="dot" ></span>
+  </div>
+</div>
