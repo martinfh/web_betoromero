@@ -2,6 +2,7 @@
 title: El Convite
 layout: obras
 category: obra
+date: 2008-04-15 14:40:45
 ---
 
 # **El Convite**

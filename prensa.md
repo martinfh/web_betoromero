@@ -2,7 +2,8 @@
 title: Prensa
 layout: biobeto
 ---
-<div style="margin-top: 200px;">
+
+<div style="width: 300px">
   <video autoplay loop muted class="video_prensa" poster="video.jpg">
     <source src="assets/videocover.mp4" type="video/mp4">
   </video>

@@ -2,6 +2,7 @@
 title: Veranito de San Juan
 layout: obras
 category: obra
+date: 2008-06-15 14:40:45
 ---
 
 # **Veranito de San Juan**

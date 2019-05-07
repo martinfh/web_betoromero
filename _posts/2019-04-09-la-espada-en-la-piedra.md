@@ -2,6 +2,7 @@
 title: La espada y la piedra
 layout: proyecto
 category: proyectos
+date: 2010-09-15 14:40:45
 ---
 
 Obra en colaboración con[Susi Villa](https://www.instagram.com/susi.villa.96/)<br>
